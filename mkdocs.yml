@@ -11,7 +11,7 @@ markdown_extensions:
 nav:
 - Home: index.md
 - Motivation: mission.md
-- Computing:
+# - Computing:
   - 'Scientific Computing': computing.md
   - 'Scientific Machine Learning': SciML.md
   - 'Scalable Open-Source Frameworks': framework.md
@@ -19,8 +19,8 @@ nav:
 #  - 'Plasma turbulence': Plasma.md
 #  - 'Magnetic Reconnection': reconnection.md
 #  - 'Integrated modeling': modeling.md
-#- Publications: publications.md
-- Calendar: calendar.md
+- Publications: Publication.md
+# - Calendar: calendar.md
 - Opening: opening.md
 - News: news.md
 - About: about.md

@@ -4,19 +4,20 @@
 
 ## Highlights
 
-* High-order methods for plasma turbulence
-* Multi-physics plasma simulations
-* Scientific ML methods for integrated modeling
-* Robust sub-grid closures in extended MHD
-* Magnetic reconnection for Z-pinch
+* Structure-preserving tensor network algorithms
+* Enhanced high performance tensor computing capabilities 
+* High-dimensional time-dependent kinetic equations simulation
+* Nonequilibrium kinetic plasma models
 
 
 
 </div><div class="col-md-8 news-table" markdown="1">
 
-# Center for High Order Plasma Turbulence Modeling for Z-Pinch (HighZ)
+# Tensor Approaches for Simulating Kinetic Systems (TASKS)
 
-The overarching goal of this PSAAP Focused Investigatory Center (FIC) is to develop high-order numerical methods and scientific ML techniques that will be applied to the modeling and interpretation of plasmas of fluid and fluid-adjacent regimes, with a particular emphasis on turbulence in magnetized plasmas and radiative magnetic reconnection – two areas of fundamental interest to DOE and NNSA, and proxies for a range of plasma phenomena applicable to high energy density physics experiments and fusion energy such as Z pinches. The numerical methods developed will include high-order, positivity-preserving finite difference, finite volume, and discontinuous Galerkin methods for extended magnetohydrodynamics, equipped with novel implicit/semi-implicit time-stepping methods. The scientific machine learning methods we develop will be designed to address the multiscale nature of the targeted plasma applications and will focus on preserving physical structures for enforcing model consistency, extending model reduction techniques to reduce the computational cost in large-scale fluid simulations, and the development of a subgrid model for magnetized turbulence.
+Modern challenges faced by the Department of Defense (DoD) demand a deep understanding of high-dimensional complex systems, characterized by non-stationary partial differential equations (PDEs). Examples include the kinetic theory in modeling probability density functions arise from describing particle distributions in nonequilibrium plasma, and from describing distribution functions of stochastic quantities and observables for quantification of uncertainty and optimal control. While deep learning has gained momentum in solving high-dimensional PDEs, direct accurate simulations remain a challenge. Tensor network approximation stands out as a promising method to combat the curse of dimensionality.
+Our research seeks to offer a fresh perspective on tensor network computations for high-dimensional complex PDEs, leverage upon and complements state-of-the-art developments from scientific machine learning, tensor networks, reduced order modeling, and uncertainty quantification. Our team develops an interlocking research framework systematically to advance tensor network methods for simulating high-dimensional kinetic models.
+While the research is inspired by nonequilibrium plasmas simulations and control of plasma instabilities, the underlying methodology promises wide-ranging applications, extending to multiple areas critical to the DoD’s interests and addressing key challenges on high-dimensional non-stationary kinetic simulations. Our team members' collective expertise encompasses multi-scale modeling, low-rank tensor methods, tensor network computations, uncertainty quantification, and machine learning. While plasma applications drive our agenda, the shared vision is broader: creating a holistic framework and research ecosystem on low-rank tensor network methods for high-dimensional kinetic models. 
 
 
 ## News
@@ -24,9 +25,8 @@ The overarching goal of this PSAAP Focused Investigatory Center (FIC) is to deve
 
 Date              | Message
 ------------------| -----------------------------------------------------------------
-02/12/2026        | The story of HighZ center was reported by [MSUToday](https://msutoday.msu.edu/news/2026/02/new-fusion-energy-research-center-engages-students-and-doe) and [DBusiness](https://www.dbusiness.com/daily-news/michigan-state-university-awarded-5m-to-study-fusion-energy/).
-01/14/2026        | Congratulations to team member Qi Tang on being selected for the 2025 DOE Early Career Research Program (ECRP).
-09/04/2025        | The HighZ project is one of the nine selected PSAAP IV centers. See [announcement](https://www.energy.gov/nnsa/articles/nnsa-announces-selection-next-round-predictive-science-academic-alliance-program) from NNSA.   
+04/29/2026        | MURI-TASKS team organized virtual workshop "Tensor Networks for High-Dimensional Approximation: Algorithms, Analysis, and Applications". [Agenda](https://docs.google.com/spreadsheets/d/1bTysu0hj98EcETLXjlMLM1ZeDqX5NILrWzbUP9I0E60/edit?gid=0#gid=0)
+02/09/2026        | MURI-TASKS team met at Pasadena, California for the Tensor Network SQuaRE meeting.   
 
   
   
@@ -38,9 +38,14 @@ Date              | Message
 &nbsp;
 
 <div class="row">
-<div class="col-xs-7 col-md-7" style="width:28%;padding:0"><a href="http://www.msu.edu"><img src="img/logos/MSU.png" alt="MSU logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.brown.edu/"><img src="img/logos/Brown.png" alt="Brown logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-7 col-md-7" style="width:40%;padding:0"><a href="https://www.gatech.edu/"><img src="img/logos/GT_logo.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" alt="Udel logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-7 col-md-7" style="width:30%;padding:0"><a href="http://www.msu.edu"><img src="img/logos/MSU.png" alt="MSU logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.washington.edu/"><img src="img/logos/Washington.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+</div>
+<div class="row">
+<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://illinois.edu/"><img src="img/logos/UIUC.png" alt="Udel logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.stanford.edu/"><img src="img/logos/Stanford.png" alt="Stanford logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.ucsc.edu/"><img src="img/logos/UCSC.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 
 </div><div class="col-md-12 bottom"></div>

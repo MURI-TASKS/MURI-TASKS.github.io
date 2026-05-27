@@ -1,12 +1,12 @@
-## About HighZ
+## About MURI-TASKS
 
-The HighZ center is a Focused Investigatory Center (FIC) supported by the Predictive Science Academic Alliance Program (PSAAP), managed by the NNSA Office of Advanced Simulation and Computing (ASC).
+Tensor Approaches for Simulating Kinetic Systems (TASKS) center is a  DoD MURI (Multidisciplinary University Research Initiative) program managed by Air Force Office of Scientific Research (AFOSR) office.
 
 ----
 
 ## Our Faculty Team 
 
-{% set members = ['A_Christlieb',  'B_Oshea',  'C_Shu',  'Q_Tang'] %}
+{% set members = ['J_Qiu', 'A_Christlieb',  'J_Hu',] %}
 
 {% for member in members %}
 
@@ -50,7 +50,7 @@ The HighZ center is a Focused Investigatory Center (FIC) supported by the Predic
  
 ## Graduate Students
 
-{% set ssmembers = ['T_Behling', 'T_Burnett',  'C_Tseng',  'C_Wendeln' ] %}
+{% set ssmembers = ['', '',  '',  '' ] %}
 
 {% for member in ssmembers %}
 
