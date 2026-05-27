@@ -1,5 +1,5 @@
-# highz-fic.github.io
-Web presence for the HighZ project. This repo contains the HighZ website [MkDocs](https://www.mkdocs.org/) sources.
+# MURI-TASKS.github.io
+Web presence for the MURI TASKS project. This repo contains the website [MkDocs](https://www.mkdocs.org/) sources.
 
 To make changes to the website you will need an install of Python version >= 3.6.9 with the following libraries:
 
