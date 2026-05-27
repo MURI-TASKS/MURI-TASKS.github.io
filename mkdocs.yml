@@ -1,0 +1,44 @@
+site_name: HighZ
+site_url: https://highz-fic.github.io
+docs_dir: 'src'
+
+markdown_extensions:
+- extra  # allow markdown in <div markdown="1">
+- fenced_code  # GitHub style code blocks, e.g. ```python, see https://highlightjs.readthedocs.org/en/latest/css-classes-reference.html for a list of languages
+- footnotes
+- attr_list  # Allow us to add link attributes
+
+nav:
+- Home: index.md
+- Motivation: mission.md
+- Computing:
+  - 'Scientific Computing': computing.md
+  - 'Scientific Machine Learning': SciML.md
+  - 'Scalable Open-Source Frameworks': framework.md
+#- Physics:
+#  - 'Plasma turbulence': Plasma.md
+#  - 'Magnetic Reconnection': reconnection.md
+#  - 'Integrated modeling': modeling.md
+#- Publications: publications.md
+- Calendar: calendar.md
+- Opening: opening.md
+- News: news.md
+- About: about.md
+
+theme:
+  name: mkdocs  # required. Can be anything as long as custom_dir is set correctly below
+  custom_dir: template
+  features:
+    - search.suggest
+
+extra:
+  include_next_prev: false  # turn off next/previous buttons
+
+plugins:
+  - search
+  - macros:
+      include_dir: "src/"
+  - exclude-search:
+      exclude:
+        # List of pages that will not be searched
+        - index.md
