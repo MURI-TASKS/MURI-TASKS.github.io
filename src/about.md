@@ -52,16 +52,5 @@ Tensor Approaches for Simulating Kinetic Systems (TASKS) center is a  DoD MURI (
 
 Coming soon
 
-<div class="row">
-    <div class="col-md-2">
-        <img src="../bios/{{ member }}.jpg" alt="Missing picture" width="100%" height="100%" object-fit=cover>
-    </div>
-    <div class="col-md-10">
-        <br><p>
-        {% set bio = "/bios/" + member + ".html" %}
-            {% include bio %}
-        </p>
-    </div>
-</div>
-{% endfor %}
+
 
