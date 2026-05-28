@@ -33,7 +33,7 @@ Date              | Message
  
    
 
-## HighZ partner universities
+## MURI-TASKS partner universities
 
 &nbsp;
 
