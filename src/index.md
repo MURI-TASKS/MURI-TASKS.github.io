@@ -36,7 +36,7 @@ Date              | Message
 ## MURI-TASKS partner universities
 
 &nbsp;
-<div class="logo-row">
+<div class="logo-grid">
   <a href="https://www.udel.edu/">
     <img src="img/logos/Delaware.png" alt="University of Delaware logo" class="desaturate">
   </a>
