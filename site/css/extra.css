@@ -1,22 +1,22 @@
-.logo-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   align-items: center;
-  gap: 28px 45px;
+  justify-items: center;
+  gap: 35px 50px;
   margin: 30px auto;
+  max-width: 850px;
 }
 
-.logo-row a {
+.logo-grid a {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 180px;
   height: 90px;
 }
 
-.logo-row img {
-  max-width: 170px;
+.logo-grid img {
+  max-width: 190px;
   max-height: 80px;
   width: auto;
   height: auto;
