@@ -2,12 +2,12 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 
-  gap: 30px 40px;
+  gap: 10px 10px;
 
   width: 100%;
   max-width: 1000px;
 
-  margin: 40px auto;
+  margin: 10px auto;
 
   justify-items: center;
   align-items: center;
