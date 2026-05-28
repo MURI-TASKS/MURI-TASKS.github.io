@@ -1,5 +1,5 @@
-site_name: HighZ
-site_url: https://highz-fic.github.io
+site_name: TASKS
+site_url: https://highz-fic.github.io/MURI-TASKS.github.io/
 docs_dir: 'src'
 
 markdown_extensions:

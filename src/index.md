@@ -40,7 +40,7 @@ Date              | Message
 <div class="row">
 <div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" alt="Udel logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 <div class="col-xs-7 col-md-7" style="width:30%;padding:0"><a href="http://www.msu.edu"><img src="img/logos/MSU.png" alt="MSU logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://www.washington.edu/"><img src="img/logos/Washington.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-7 col-md-7" style="width:25%;padding:0"><a href="https://www.washington.edu/"><img src="img/logos/Washington.png" alt="UW logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
 </div>
 <div class="row">
 <div class="col-xs-7 col-md-7" style="width:32%;padding:0"><a href="https://illinois.edu/"><img src="img/logos/UIUC.png" alt="Udel logo" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
