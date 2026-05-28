@@ -1,5 +1,3 @@
-## Mission
-
 # MURI Topic 18: Tensor Networks and Low-Rank Methods for High-Dimensional Computing
 
 There are Department of Defense (DoD) grand challenge problems that are beyond modern computing capabilities, yet we face an ever-increasing instances when understanding such complex dynamics is essential. Examples include clean energy systems (fusion), virtual war gaming, space weather, hypersonic flight, to name but a few. Understanding these systems in a non-stationary non-equilibrium state where each of the N agents in the system may experience its local dynamics influenced by N−1 other agents is the grand challenge problem. 
