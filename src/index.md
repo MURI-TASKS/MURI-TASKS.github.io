@@ -36,6 +36,7 @@ Date              | Message
 ## MURI-TASKS partner universities
 
 &nbsp;
+<table class="logo-table">
 <table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
     <td style="width:33%; height:110px; vertical-align:middle;">
