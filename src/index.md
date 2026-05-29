@@ -36,34 +36,29 @@ Date              | Message
 ## MURI-TASKS partner universities
 
 &nbsp;
-<div style="text-align:center; margin:30px auto;">
-
-  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
-    <a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
-  </div>
-
-  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
-    <a href="http://www.msu.edu"><img src="img/logos/MSU.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
-  </div>
-
-  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
-    <a href="https://www.washington.edu/"><img src="img/logos/Washington.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
-  </div>
-
-  <br>
-
-  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
-    <a href="https://illinois.edu/"><img src="img/logos/UIUC.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
-  </div>
-
-  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
-    <a href="https://www.stanford.edu/"><img src="img/logos/Stanford.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
-  </div>
-
-  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
-    <a href="https://www.ucsc.edu/"><img src="img/logos/UCSC.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
-  </div>
-
-</div>
+<table style="width:100%; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td style="width:33%; height:110px; vertical-align:middle;">
+      <a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" class="desaturate" style="max-width:180px; max-height:85px;"></a>
+    </td>
+    <td style="width:33%; height:110px; vertical-align:middle;">
+      <a href="http://www.msu.edu"><img src="img/logos/MSU.png" class="desaturate" style="max-width:180px; max-height:85px;"></a>
+    </td>
+    <td style="width:33%; height:110px; vertical-align:middle;">
+      <a href="https://www.washington.edu/"><img src="img/logos/Washington.png" class="desaturate" style="max-width:180px; max-height:85px;"></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:33%; height:110px; vertical-align:middle;">
+      <a href="https://illinois.edu/"><img src="img/logos/UIUC.png" class="desaturate" style="max-width:180px; max-height:85px;"></a>
+    </td>
+    <td style="width:33%; height:110px; vertical-align:middle;">
+      <a href="https://www.stanford.edu/"><img src="img/logos/Stanford.png" class="desaturate" style="max-width:180px; max-height:85px;"></a>
+    </td>
+    <td style="width:33%; height:110px; vertical-align:middle;">
+      <a href="https://www.ucsc.edu/"><img src="img/logos/UCSC.png" class="desaturate" style="max-width:180px; max-height:85px;"></a>
+    </td>
+  </tr>
+</table>
 
 <div class="col-md-12 bottom"></div>
