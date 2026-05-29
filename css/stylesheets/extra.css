@@ -1,0 +1,11 @@
+.logo-table,
+.logo-table tr,
+.logo-table td {
+    background: transparent !important;
+    border: none !important;
+}
+
+.logo-table td {
+    text-align: center;
+    vertical-align: middle;
+}
