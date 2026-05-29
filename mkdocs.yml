@@ -2,8 +2,6 @@ site_name: TASKS
 site_url: https://highz-fic.github.io/MURI-TASKS.github.io/
 docs_dir: 'src'
 
-extra_css:
- - stylesheets/extra.css
   
 markdown_extensions:
 - extra  # allow markdown in <div markdown="1">

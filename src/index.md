@@ -36,13 +36,34 @@ Date              | Message
 ## MURI-TASKS partner universities
 
 &nbsp;
-<div class="logo-grid">
-  <a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" alt="University of Delaware logo" class="desaturate"></a>
-  <a href="http://www.msu.edu"><img src="img/logos/MSU.png" alt="Michigan State University logo" class="desaturate"></a>
-  <a href="https://www.washington.edu/"><img src="img/logos/Washington.png" alt="University of Washington logo" class="desaturate"></a>
-  <a href="https://illinois.edu/"><img src="img/logos/UIUC.png" alt="University of Illinois Urbana-Champaign logo" class="desaturate"></a>
-  <a href="https://www.stanford.edu/"><img src="img/logos/Stanford.png" alt="Stanford University logo" class="desaturate"></a>
-  <a href="https://www.ucsc.edu/"><img src="img/logos/UCSC.png" alt="UC Santa Cruz logo" class="desaturate"></a>
+<div style="text-align:center; margin:30px auto;">
+
+  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
+    <a href="https://www.udel.edu/"><img src="img/logos/Delaware.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
+  </div>
+
+  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
+    <a href="http://www.msu.edu"><img src="img/logos/MSU.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
+  </div>
+
+  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
+    <a href="https://www.washington.edu/"><img src="img/logos/Washington.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
+  </div>
+
+  <br>
+
+  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
+    <a href="https://illinois.edu/"><img src="img/logos/UIUC.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
+  </div>
+
+  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
+    <a href="https://www.stanford.edu/"><img src="img/logos/Stanford.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
+  </div>
+
+  <div style="display:inline-block; width:30%; height:110px; vertical-align:middle; text-align:center;">
+    <a href="https://www.ucsc.edu/"><img src="img/logos/UCSC.png" class="desaturate" style="max-width:180px; max-height:85px; vertical-align:middle;"></a>
+  </div>
+
 </div>
 
 <div class="col-md-12 bottom"></div>
