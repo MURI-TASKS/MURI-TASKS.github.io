@@ -8,7 +8,7 @@ The **MURI-TASKS** offers a wide range of opportunities for graduate students an
 ### 📌 Current Job Postings  
 (Point of contact in parentheses)
 
-- University of Delaware ([Dr. Jingwei Qiu](mailto:jingqiu@udel.edu))
+- University of Delaware ([Dr. Jingwei Qiu](mailto:jingqiu@udel.edu)), one postdoc starting July 1st, 2027
 - Michigan State University ([Dr. Andrew Christlieb](mailto:christli@msu.edu))
 - University of Washington ([Dr. Jingwei Hu](mailto:hujw@uw.edu))
 - University of Illinois Urbana-Champaign ([Dr. Edgar Solomonik](mailto:solomon2@illinois.edu))
