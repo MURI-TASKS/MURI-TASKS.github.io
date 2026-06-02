@@ -45,7 +45,7 @@ Tensor Approaches for Simulating Kinetic Systems (TASKS) center is a  DoD MURI (
 
 ## PostDoc
  
- {% set members = ['maryam'] %}
+ {% set members = ['maryam', 'Tang'] %}
 
 {% for member in members %}
 
