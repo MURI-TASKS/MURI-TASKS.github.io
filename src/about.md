@@ -6,7 +6,7 @@ Tensor Approaches for Simulating Kinetic Systems (TASKS) center is a  DoD MURI (
 
 ## Our Faculty Team 
 
-{% set members = ['J_Qiu', 'A_Christlieb', 'J_Hu', 'Edgar'] %}
+{% set members = ['J_Qiu', 'A_Christlieb', 'J_Hu', 'Edgar', 'Ying'] %}
 
 {% for member in members %}
 
